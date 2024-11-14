@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\bin\Debug\net7.0\Array-Class.exe
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\bin\Debug\net7.0\Array-Class.deps.json
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\bin\Debug\net7.0\Array-Class.runtimeconfig.json
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\bin\Debug\net7.0\Array-Class.dll
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\bin\Debug\net7.0\Array-Class.pdb
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\obj\Debug\net7.0\Array-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\obj\Debug\net7.0\Array-Class.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\obj\Debug\net7.0\Array-Class.AssemblyInfo.cs
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\obj\Debug\net7.0\Array-Class.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\obj\Debug\net7.0\Array-Class.dll
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\obj\Debug\net7.0\refint\Array-Class.dll
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\obj\Debug\net7.0\Array-Class.pdb
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\obj\Debug\net7.0\Array-Class.genruntimeconfig.cache
+C:\Users\Hp\Desktop\ArrayClass-3-9-2024\Array-Class\obj\Debug\net7.0\ref\Array-Class.dll
